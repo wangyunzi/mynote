@@ -11,7 +11,7 @@ export default sidebar({
     // 指定显示页面
     {
     text: "📖 读书笔记",
-    icon: "",
+    icon: "fa6-brands:readme",
     prefix: "reading/",
     link: "/reading/",
     collapsible: true,
