@@ -9,57 +9,7 @@ export default sidebar({
     // 读书笔记架构更换到 docsify，不能使用相对链接
     // { text: "读书笔记", icon: "fa6-brands:readme", link: "https://newzone.top/reading/" },
     // 指定显示页面
-    {
-  text: "📖 读书笔记",
-  icon: "",
-  prefix: "reading/",
-  collapsible: true,
-  children: [
-    "README.md",
-    {
-      text: "效率与习惯",
-      icon: "fa6-solid:bolt",
-      prefix: "0_效率与习惯/",
-      collapsible: true,
-      children: "structure",
-    },
-    {
-      text: "思维与成长",
-      icon: "fa6-solid:seedling",
-      prefix: "1_思维与成长/",
-      collapsible: true,
-      children: "structure",
-    },
-    {
-      text: "沟通与影响",
-      icon: "fa6-solid:comments",
-      prefix: "2_沟通与影响/",
-      collapsible: true,
-      children: "structure",
-    },
-    {
-      text: "创意与写作",
-      icon: "fa6-solid:pen-nib",
-      prefix: "3_创意与写作/",
-      collapsible: true,
-      children: "structure",
-    },
-    {
-      text: "健康与生活",
-      icon: "fa6-solid:heart-pulse",
-      prefix: "4_健康与生活/",
-      collapsible: true,
-      children: "structure",
-    },
-    {
-      text: "商业与社会",
-      icon: "fa6-solid:briefcase",
-      prefix: "5_商业与社会/",
-      collapsible: true,
-      children: "structure",
-    },
-  ],
-},
+    { text: "读书笔记", icon: "fa6-brands:readme", link: "/reading/" },
 
     {
       text: "🧰 应用手册",
@@ -146,8 +96,13 @@ export default sidebar({
     //   children: "structure",
     // },
   ],
+
+
+
   // 专题区（独立侧边栏）
   "/apps/topic/": "structure",
+  "/reading/": "structure",
+
   // 如果你不想使用默认侧边栏，可以按照路径自行设置。但需要去掉下方配置中的注释，以避免博客和时间轴出现异常。_posts 目录可以不存在。
   /*"/_posts/": [
     {
