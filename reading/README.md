@@ -1,3 +1,10 @@
+---
+article: false
+title: 读书笔记
+description: 
+icon: fa6-solid:book-open-reader
+---
+
 # 读书笔记
 
 曾经我尝试使用 Notion 来管理书单，用 Calibre、Logseq 来对电子书做读书笔记。我渐渐发现自己几乎从不回头再看这些电子书的笔记。因此，我决定放弃电子书这种方式，而将我的注意力更多地集中在实体书籍上的摘要总结上。
