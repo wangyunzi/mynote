@@ -7,7 +7,7 @@ export default hopeTheme(
     // 主题选项：https://theme-hope.vuejs.press/zh/config/theme/layout.html
     hostname: "https://newzone.top",
     author: {
-      name: "LearnData",
+      name: "RAE",
       url: "https://newzone.top",
     },
 
@@ -21,7 +21,7 @@ export default hopeTheme(
     // copyright 默认为 Copyright © <作者>
     copyright: `
   版权声明：自由转载 - 非商用 - 非衍生 - 保持署名<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans" target="_blank" rel="noopener noreferrer">（创意共享 4.0 许可证）</a>|
-  Copyright © 2023-present LearnData</a>
+  Copyright © 2026-present LearnData</a>
   `,
     displayFooter: true,
     // 页脚，支持使用 HTMLString 以显示备案信息等
@@ -33,7 +33,7 @@ export default hopeTheme(
     // 页面元数据：贡献者，最后修改时间，编辑链接
     contributors: false,
     lastUpdated: true,
-    editLink: false,
+    editLink: true,
 
     // 深色模式配置
     darkmode: "switch",
@@ -41,7 +41,7 @@ export default hopeTheme(
     fullscreen: true,
 
     // 默认为 GitHub. 同时也可以是一个完整的 URL
-    repo: "rockbenben/LearnData",
+    repo: "wangyunzi/mynote",
     // 自定义仓库链接文字。默认从 `repo` 中自动推断为 "GitHub" / "GitLab" / "Gitee" / "Bitbucket" 其中之一，或是 "Source"。
     repoLabel: "GitHub",
     // 是否在导航栏内显示仓库链接，默认为 `true`
@@ -71,7 +71,7 @@ export default hopeTheme(
     // 主题功能选项：https://theme-hope.vuejs.press/zh/config/theme/feature.html
     blog: {
       articleInfo: ["Date", "PageView", "Category", "Tag", "ReadingTime"],
-      name: "清顺",
+      name: "RAE",
       avatar: "/avatar_self.webp",
       description: "迷信新工具，热衷于研究开源软件、心理学理论，定期分享探索成果",
       intro: "/intro.html",
@@ -164,10 +164,10 @@ export default hopeTheme(
 
         // Giscus
         provider: "Giscus",
-        repo: "rockbenben/giscus-comment",
-        repoId: "R_kgDOM_MPJA",
-        category: "Comments",
-        categoryId: "DIC_kwDOM_MPJM4CjS0P",
+        repo: "wangyunzi/giscus-comment",
+        repoId: "R_kgDOTHdCcg",
+        category: "Announcements",
+        categoryId: "DIC_kwDOTHdCcs4DAFf0",
       },
 
       // 组件库
@@ -204,14 +204,14 @@ export default hopeTheme(
       config: {
         // 这会加密整个 encrypt 目录，并且两个密码都是可用的
         "/encrypt/": {
-          password: ["1234", "5678"],
-          hint: "从 xxx 获取密码",
+          password: ["1113", "2000"],
+          hint: "从 博主 获取密码",
         },
         // 这只会加密 /apps/encrypt03.html 页面
-        "/apps/encrypt03.html": {
-          password: "1234",
-          hint: "从 xxx 获取密码",
-        },
+        // "/apps/encrypt03.html": {
+        //   password: "1234",
+        //   hint: "从 xxx 获取密码",
+        // },
       },
     },
 
