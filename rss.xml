@@ -4,10 +4,10 @@
     <atom:link href="https://newzone.top/rss.xml" rel="self" type="application/rss+xml"/>
     <title>RAE NOTE</title>
     <link>https://newzone.top/</link>
-    <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
+    <description>记录开源工具、效率方法与心理学探索的自我成长笔记，持续沉淀并输出一切能够让自己变得更好的知识与思考。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 28 Jun 2026 15:52:27 GMT</pubDate>
-    <lastBuildDate>Sun, 28 Jun 2026 15:52:27 GMT</lastBuildDate>
+    <pubDate>Sun, 28 Jun 2026 15:55:00 GMT</pubDate>
+    <lastBuildDate>Sun, 28 Jun 2026 15:55:00 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>工具</category>
