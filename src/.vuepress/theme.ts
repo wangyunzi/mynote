@@ -164,7 +164,7 @@ export default hopeTheme(
 
         // Giscus
         provider: "Giscus",
-        repo: "wangyunzi/giscus-comment",
+        repo: "wangyunzi/mynote",
         repoId: "R_kgDOTHdCcg",
         category: "Announcements",
         categoryId: "DIC_kwDOTHdCcs4DAFf0",
