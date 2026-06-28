@@ -21,11 +21,11 @@ export default defineUserConfig({
   // 网站标题
   title: "RAE NOTE",
   // 网站描述
-  description: "开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。",
+  description: "记录开源工具、效率方法与心理学探索的自我成长笔记，持续沉淀并输出一切能够让自己变得更好的知识与思考。",
 
   theme,
   // 是否开启页面预拉取，如果服务器宽带足够，可改为 true，会提升其他页面加载速度
-  shouldPrefetch: false,
+  shouldPrefetch: true,
 
   // 修改页面模板，https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/packages/theme/templates/index.build.html
   // 配置参考：https://vuepress.github.io/zh/reference/theme-api.html#templatebuild
