@@ -12,8 +12,8 @@ export default hopeTheme(
     },
 
     // 现代浏览器优先用朱砂色 SVG，老浏览器自动 fallback 到 /favicon.ico
-    favicon: "/logo.svg",
-    logo: "/logo.svg",
+    favicon: "https://blog.wangyunzi.com/rae.jpg",
+    logo: "https://blog.wangyunzi.com/rae.jpg",
 
     // 网站文章的版权声明
     license: "CC BY-NC-ND 4.0",
