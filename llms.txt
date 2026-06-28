@@ -28,7 +28,7 @@
 - [正则表达式](https://newzone.top/code/Regex.html) - 正则表达式快速入门指南。汇总字符匹配、前后查找等核心语法与高频替换技巧。附带元字符速查表与分组说明，通过实战案例助你轻松掌握正则。
 - [Vue](https://newzone.top/code/Vue.html) - mounted 是生命周期函数，自动执行。
 - [每日仪式](https://newzone.top/DailyRoutine.html) - 想养成改变生活的良好习惯？探索这套每日仪式：从5AM Club的晨间方案，到GTD时间管理，再到自我监控。学习如何通过固定流程，实现高效的自我提升。
-- [网站部署](https://newzone.top/deploy/)
+- [部署](https://newzone.top/deploy/) - 如果想形成专题文章，并想使用独立侧边栏，则参考本目录使用专题文章。
 - [Cloudflare](https://newzone.top/deploy/Cloudflare.html) - 释放Cloudflare的强大功能！本指南教你加速网站访问，并提供页面优化的实用技巧，如设置缓存和使用Zaraz。更有进阶的Workers反向代理教程，助你全面掌控网站部署与性能。
 - [云计算服务](https://newzone.top/deploy/CloudServices.html) - 如何优化网站性能与部署？本篇云计算服务指南，探讨CDN在静态文件托管、图床和全站加速中的应用。同时分享Vercel、Cloudflare Tunnel等第三方服务的部署经验与避坑技巧。
 - [域名 DNS 托管](https://newzone.top/deploy/DNS.html) - 如何优化域名DNS解析？分享阿里云与Cloudflare托管实践，对比国内访问速度与备案流程。探讨NS记录设置与DNS迁移技巧，助你为网站选择稳定高效的解析方案。
