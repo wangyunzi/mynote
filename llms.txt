@@ -1,10 +1,11 @@
-# RAE NOTE
+# LearnData 开源笔记
 
-> 记录开源工具、效率方法与心理学探索的自我成长笔记，持续沉淀并输出一切能够让自己变得更好的知识与思考。
+> 开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。
 
 ## Pages
 
 - [LearnData 开源笔记](https://newzone.top/) - 演示站：你正在浏览 LearnData 模板的默认样态。Use this template 创建仓库后部署得到的就是这套站点框架，按需替换内容即可上线属于自己的知识库。
+- [博客文章样例](https://newzone.top/_posts/2024-03-01-blog_example 1.html) - 博客文章内容，支持 Markdown 和 HTML 语言。
 - [博客文章样例](https://newzone.top/_posts/2024-03-01-blog_example.html) - 博客文章内容，支持 Markdown 和 HTML 语言。
 - [博客文章样例 2](https://newzone.top/_posts/2024-03-02-blog_example2.html) - 博客文章内容，支持 Markdown 和 HTML 语言。
 - [必备应用](https://newzone.top/apps/Applist.html) - 正在寻找好用的Windows软件？这份必备应用清单为你精心筛选了从知识管理到设计开发的各类工具。无论你是效率达人还是开发者，都能在这里找到优化工作流的最佳选择。
@@ -75,3 +76,4 @@
 - [评论插件](https://newzone.top/web/Comments.html) - 网站评论插件深度指南：对比Waline、Giscus与Gitalk。详解Waline从Vercel部署到Linux配置及数据库迁移全流程，搭建安全高效评论系统。
 - [docsify](https://newzone.top/web/docsify.html) - docsify建站避坑指南：汇总插件配置、本地Serve命令及GitHub Pages部署等常见问题解决方案。助你轻松驾驭这款神奇的静态网站生成器。
 - [VuePress](https://newzone.top/web/VuePress.html) - VuePress v2建站攻略：从基础环境搭建到theme-hope主题深度定制。涵盖搜索插件、Webpack打包优化及性能调优技巧，助你构建专业静态文档网站。
+- [很适合资料党的浏览器插件：Notedown 脑袋笔记](https://newzone.top/工具合集/很适合资料党的浏览器插件：Notedown 脑袋笔记.html) - 平时看到一篇好文章，你会怎么处理？
