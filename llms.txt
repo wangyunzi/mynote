@@ -8,6 +8,7 @@
 - [博客文章样例](https://newzone.top/_posts/2024-03-01-blog_example 1.html) - 博客文章内容，支持 Markdown 和 HTML 语言。
 - [博客文章样例](https://newzone.top/_posts/2024-03-01-blog_example.html) - 博客文章内容，支持 Markdown 和 HTML 语言。
 - [博客文章样例 2](https://newzone.top/_posts/2024-03-02-blog_example2.html) - 博客文章内容，支持 Markdown 和 HTML 语言。
+- [应用手册](https://newzone.top/apps/)
 - [必备应用](https://newzone.top/apps/Applist.html) - 正在寻找好用的Windows软件？这份必备应用清单为你精心筛选了从知识管理到设计开发的各类工具。无论你是效率达人还是开发者，都能在这里找到优化工作流的最佳选择。
 - [Chrome 扩展](https://newzone.top/apps/Chrome.html) - 想提升Chrome使用效率？这份超强扩展清单，帮你一站式解决标签页管理、网页监控、图片视频下载等需求。精选多款实用插件，全面优化你的浏览体验与工作流。
 - [平面设计](https://newzone.top/apps/design.html) - 想提升设计效率？本文为你精选多款设计利器：从Excalidraw等电子白板，到Eagle图片管理，再到海量免费可商用字体。一站式解决你的设计灵感与工具需求。
@@ -16,7 +17,6 @@
 - [专题示例](https://newzone.top/apps/topic/) - 如果想形成专题文章，并想使用独立侧边栏，则参考本目录使用专题文章。
 - [专题文章1](https://newzone.top/apps/topic/topic01.html) - 不建议过度囤积婴儿用品，尤其是尿不湿和奶粉。虽然有时会有吸引人的优惠，但我们必须记住，新生儿的成长速度惊人。今天合适的尿不湿尺寸，明天可能就小了。我还记得，老婆的朋友曾大量储备尿不湿，结果没用完。...
 - [专题文章2](https://newzone.top/apps/topic/topic02anytitle.html) - 原本想着带娃就是阿姨带着我待着。但真正开始后，为了让娃不近视，每天都需要带娃外出。
-- [很适合资料党的浏览器插件：Notedown 脑袋笔记](https://newzone.top/apps/很适合资料党的浏览器插件：Notedown 脑袋笔记.html) - 平时看到一篇好文章，你会怎么处理？
 - [LearnData开源笔记博客](https://newzone.top/blog.html) - 欢迎访问LearnData博客，一个专注自我提升的知识分享平台。探索开源工具、效率方法与心理学，与我一同学习、实践、成长。盛年不重来，让我们即刻开始！
 - [Coding](https://newzone.top/code/) - 想入门编程或提升技能？这份指南为你规划全栈学习路径：从Vue/React前端到Node.js后端，再到AutoHotkey自动化脚本。精选实用IDE与在线编辑器推荐，助你构建完整技术栈。
 - [AutoHotkey](https://newzone.top/code/AutoHotkey.html) - 想让Windows操作更高效？本文从基础语法到热键设置，详解AutoHotkey核心应用。提供丰富实战脚本样例，助你轻松实现程序速启、弹窗控制等自动化操作，大幅提升工作效率。
@@ -28,6 +28,7 @@
 - [正则表达式](https://newzone.top/code/Regex.html) - 正则表达式快速入门指南。汇总字符匹配、前后查找等核心语法与高频替换技巧。附带元字符速查表与分组说明，通过实战案例助你轻松掌握正则。
 - [Vue](https://newzone.top/code/Vue.html) - mounted 是生命周期函数，自动执行。
 - [每日仪式](https://newzone.top/DailyRoutine.html) - 想养成改变生活的良好习惯？探索这套每日仪式：从5AM Club的晨间方案，到GTD时间管理，再到自我监控。学习如何通过固定流程，实现高效的自我提升。
+- [网站部署](https://newzone.top/deploy/)
 - [Cloudflare](https://newzone.top/deploy/Cloudflare.html) - 释放Cloudflare的强大功能！本指南教你加速网站访问，并提供页面优化的实用技巧，如设置缓存和使用Zaraz。更有进阶的Workers反向代理教程，助你全面掌控网站部署与性能。
 - [云计算服务](https://newzone.top/deploy/CloudServices.html) - 如何优化网站性能与部署？本篇云计算服务指南，探讨CDN在静态文件托管、图床和全站加速中的应用。同时分享Vercel、Cloudflare Tunnel等第三方服务的部署经验与避坑技巧。
 - [域名 DNS 托管](https://newzone.top/deploy/DNS.html) - 如何优化域名DNS解析？分享阿里云与Cloudflare托管实践，对比国内访问速度与备案流程。探讨NS记录设置与DNS迁移技巧，助你为网站选择稳定高效的解析方案。
