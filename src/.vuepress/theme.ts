@@ -5,15 +5,15 @@ import sidebar from "./sidebar.js";
 export default hopeTheme(
   {
     // 主题选项：https://theme-hope.vuejs.press/zh/config/theme/layout.html
-    hostname: "https://newzone.top",
+    // hostname: "https://newzone.top",
     author: {
       name: "RAE",
-      url: "https://newzone.top",
+      // url: "https://newzone.top",
     },
 
     // 现代浏览器优先用朱砂色 SVG，老浏览器自动 fallback 到 /favicon.ico
-    favicon: "https://blog.wangyunzi.com/rae.jpg",
-    logo: "https://blog.wangyunzi.com/rae.jpg",
+    favicon: "https://blog.wangyunzi.com/rae.ico",
+    logo: "https://blog.wangyunzi.com/rae.png",
 
     // 网站文章的版权声明
     license: "CC BY-NC-ND 4.0",
