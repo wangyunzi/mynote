@@ -4,26 +4,12 @@ import { sidebar } from "vuepress-theme-hope";
 // https://fontawesome.com/search?m=free&o=r
 export default sidebar({
   "/": [
-    "DailyRoutine",
-    "Fitness",
     // 读书笔记架构更换到 docsify，不能使用相对链接
     // { text: "读书笔记", icon: "fa6-brands:readme", link: "https://newzone.top/reading/" },
-    // 指定显示页面
-    { text: "读书笔记", icon: "fa6-brands:readme", link: "/reading/" },
-    { text: "应用手册", icon: "", link: "/apps/" },
-    // { text: "页面开发", icon: "", link: "/web/" },
-    { text: "网站部署", icon: "", link: "/deploy/" },
-    { text: "代码编程", icon: "", link: "/code/" },
-    // { text: "生活记录", icon: "", link: "/family/" },
-    { text: "加密目录", icon: "material-symbols:encrypted", link: "/encrypt/" },
-    { text: "博客文章", icon: "fa6-solid:feather-pointed", link: "/blog" },
-  ],
-
-  "/reading/": [
     {
       text: "📖 读书笔记",
-      icon: "",
-      prefix: "",
+      icon: "fa6-brands:readme",
+      prefix: "reading/",
       collapsible: true,
       children: [
         "README.md",
@@ -71,78 +57,38 @@ export default sidebar({
         },
       ],
     },
-  ],
-
-  "/apps/": [
     {
       text: "🧰 应用手册",
-      icon: "",
-      prefix: "",
+      icon: "fa6-solid:toolbox",
+      prefix: "apps/",
       collapsible: true,
       children: "structure",
     },
-  ],
-
-  // "/web/": [
-  //   {
-  //     text: "🌐 页面开发",
-  //     icon: "",
-  //     prefix: "",
-  //     collapsible: true,
-  //     children: "structure",
-  //   },
-  // ],
-
-  "/deploy/": [
     {
       text: "🏗️ 网站部署",
-      icon: "",
-      prefix: "",
+      icon: "fa6-solid:cloud-arrow-up",
+      prefix: "deploy/",
       collapsible: true,
       children: "structure",
     },
-  ],
-
-  "/code/": [
     {
       text: "🔡 代码编程",
-      icon: "",
-      prefix: "",
+      icon: "fa6-solid:code",
+      prefix: "code/",
       collapsible: true,
       children: "structure",
     },
-  ],
-
-  // "/family/": [
-  //   {
-  //     text: "🛖 生活记录",
-  //     icon: "",
-  //     prefix: "",
-  //     collapsible: true,
-  //     children: "structure",
-  //   },
-  // ],
-
-  "/encrypt/": [
     {
       text: "加密目录",
       icon: "material-symbols:encrypted",
-      prefix: "",
+      prefix: "encrypt/",
       collapsible: true,
       children: "structure",
     },
-  ],
-
-  // 专题区（独立侧边栏）
-  "/apps/topic/": "structure",
-
-  // 如果你不想使用默认侧边栏，可以按照路径自行设置。但需要去掉下方配置中的注释，以避免博客和时间轴出现异常。_posts 目录可以不存在。
-  "/_posts/": [
     {
       text: "博客文章",
       icon: "fa6-solid:feather-pointed",
-      prefix: "",
-      link: "/blog",
+      prefix: "_posts/",
       collapsible: true,
       children: "structure",
     },
