@@ -1,7 +1,7 @@
 ---
 article: false
 index: false
-title: 网站部署
+title: 部署
 icon: fa6-solid:icons
 ---
 
@@ -11,6 +11,8 @@ icon: fa6-solid:icons
 
 <!-- markdownlint-disable MD033 -->
 
-<Catalog base='/deploy/' />
+<Catalog base='/apps/deploy/' />
 
 <!-- markdownlint-enable MD033 -->
+
+

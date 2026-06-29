@@ -1,40 +1,37 @@
 ---
 article: false
-title: 
-description: 演示站：你正在浏览 LearnData 模板的默认样态。Use this template 创建仓库后部署得到的就是这套站点框架，按需替换内容即可上线属于自己的知识库。
+title: 技术博客
+description: 记录软件工具、网站部署、代码学习与读书笔记的个人知识博客，持续整理可复用的方法、经验和资料。
 icon: fa6-solid:book-open-reader
 ---
 
-> 你看到的就是 [LearnData](https://github.com/rockbenben/LearnData) 模板的演示站点。
+> 一个围绕技术学习、知识整理与长期积累搭建的个人博客。
 
-## 这里是什么
+## 这里有什么
 
-如果你刚通过 **Use this template** 创建了仓库并部署成功，恭喜 —— 这就是你的网站首页现在的样子。所有侧边栏内容、博客文章、读书笔记都是模板自带的演示样例。
+这个博客主要用于沉淀日常学习与实践中值得反复查阅的内容。相比零散收藏，它更强调按主题整理、长期维护和后续检索，尽量把常见问题、工具经验和阅读摘记收拢到同一个地方。
 
-接下来要做的：
+目前内容包括：
 
-1. **替换内容**：删除 `src/_posts/` 下的示例博客、`src/reading/` 下的读书笔记示例，按 [samplepage.md](https://github.com/rockbenben/LearnData/blob/main/samplepage.md?plain=1) 的 frontmatter 规范写自己的内容
-2. **改写本页**：把 `src/README.md`（也就是这页）改成你自己的网站介绍
-3. **配置个人信息**：修改 `src/.vuepress/config.ts` 的 title、description、域名等
+- **读书笔记**：整理阅读过程中的摘要、观点、框架和可复用的方法论
+- **应用手册**：记录常用软件、工具配置与使用心得，方便日后快速回查
+- **网站部署**：汇总建站、服务器、DNS、Cloudflare、GitHub Actions 等相关内容
+- **代码编程**：沉淀前端、脚本、开发工具和基础编程知识
+- **加密目录**：放置不公开或需要单独访问的内容
+- **博客文章**：发布更完整的专题记录、总结与经验文章
 
-## 文档与帮助
+## 为什么写这个博客
 
-- 📖 **完整搭建 / 配置 / 部署 / FAQ**：[LearnData GitHub README](https://github.com/rockbenben/LearnData#readme)
-- 🌐 **真实使用案例**：[newzone.top](https://newzone.top) —— 博主基于本模板搭建的个人博客
-- 🎯 **进阶心得**：
-  - [知识管理与搜索](https://newzone.top/posts/2024-01-28-learndata-advanced.html) —— 节点搜索、Quicker 一键定位、`article` 标签、双链反思
-  - [自动化脚本](https://newzone.top/posts/2026-03-05-learndata-scripts-llm-seo.html) —— SEO 审计、`llms.txt`、读书笔记侧边栏、Jules 定时维护
+很多信息在第一次使用时看似简单，但隔一段时间再回头处理，通常还要重新检索、重新踩坑。这个博客的目标不是堆积资料，而是把真正会重复使用的内容写成自己的版本，形成能长期复用的知识底稿。
 
-## 模板内容结构
+它既是一个公开的技术笔记站，也是个人的工作手册和学习档案。
 
-模板自带的演示内容按以下结构组织（fork 后建议按需替换）：
+## 适合怎么用
 
-- 置顶：日常习惯、健身、阅读
-- 软件应用、Docker 服务、系统问题、代码编程
-- 生活角落：说明书、生活记录和小技巧
-- 博客汇总：分类、标签、时间轴
+- 从左侧菜单进入对应主题，按目录展开查找文章
+- 通过搜索快速定位关键词、工具名、技术点或书名
+- 把它当作个人知识库，而不是一次性的文章展示页
 
-## 反馈与社区
+## 更新方式
 
-- 🐛 [GitHub Issues](https://github.com/rockbenben/LearnData/issues)
-- 💬 [Discord](https://discord.gg/PZTQfJ4GjX) · [Telegram](https://t.me/aishort_top) · [QQ 群](https://qm.qq.com/q/qvephMO8q4)
+这个博客会持续按主题补充内容。新增文章、扩展目录和调整结构时，会优先保持分类清晰、检索方便和后续维护成本可控。
