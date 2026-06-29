@@ -45,11 +45,3 @@ icon: fa6-solid:book-open-reader
 1. 随便找一本书，开始阅读，倒计时 3 分钟结束后合上书，找一张纸，画一张思维导图，把刚才你读到的关键点靠回忆记录下来。
 2. 重新阅读刚才阅读的内容，区别是倒计时降低到 2 分钟，也就是你需要用 2 分钟完成刚才 3 分钟读完的内容，并补充刚才的导图里的内容。
 3. 用 1 分钟再次重复上述过程。^[[2.4 如何提升信息处理速度](https://sspai.com/post/53852)]^[[3.5 创建你的信息数据库](https://sspai.com/post/54065)]
-
-## 文章目录
-
-<!-- markdownlint-disable MD033 -->
-
-<Catalog base='/reading/' />
-
-<!-- markdownlint-enable MD033 -->

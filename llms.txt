@@ -4,6 +4,7 @@
 
 ## Pages
 
+- [技术博客](https://newzone.top/) - 记录软件工具、网站部署、代码学习与读书笔记的个人知识博客，持续整理可复用的方法、经验和资料。
 - [博客文章样例](https://newzone.top/_posts/2024-03-01-blog_example 1.html) - 博客文章内容，支持 Markdown 和 HTML 语言。
 - [博客文章样例](https://newzone.top/_posts/2024-03-01-blog_example.html) - 博客文章内容，支持 Markdown 和 HTML 语言。
 - [博客文章样例 2](https://newzone.top/_posts/2024-03-02-blog_example2.html) - 博客文章内容，支持 Markdown 和 HTML 语言。
@@ -16,7 +17,6 @@
 - [专题示例](https://newzone.top/apps/topic/) - 如果想形成专题文章，并想使用独立侧边栏，则参考本目录使用专题文章。
 - [专题文章1](https://newzone.top/apps/topic/topic01.html) - 不建议过度囤积婴儿用品，尤其是尿不湿和奶粉。虽然有时会有吸引人的优惠，但我们必须记住，新生儿的成长速度惊人。今天合适的尿不湿尺寸，明天可能就小了。我还记得，老婆的朋友曾大量储备尿不湿，结果没用完。...
 - [专题文章2](https://newzone.top/apps/topic/topic02anytitle.html) - 原本想着带娃就是阿姨带着我待着。但真正开始后，为了让娃不近视，每天都需要带娃外出。
-- [RAE格](https://newzone.top/blog.html) - 欢迎访问LearnData博客，一个专注自我提升的知识分享平台。探索开源工具、效率方法与心理学，与我一同学习、实践、成长。盛年不重来，让我们即刻开始！
 - [Coding](https://newzone.top/code/) - 想入门编程或提升技能？这份指南为你规划全栈学习路径：从Vue/React前端到Node.js后端，再到AutoHotkey自动化脚本。精选实用IDE与在线编辑器推荐，助你构建完整技术栈。
 - [AutoHotkey](https://newzone.top/code/AutoHotkey.html) - 想让Windows操作更高效？本文从基础语法到热键设置，详解AutoHotkey核心应用。提供丰富实战脚本样例，助你轻松实现程序速启、弹窗控制等自动化操作，大幅提升工作效率。
 - [Electron](https://newzone.top/code/Electron.html) - 想用Web技术开发桌面应用？Electron是你的首选。详解环境部署与builder打包流程，提供解决打包报错、跨系统构建等问题的实战指南，助你上手跨平台开发。
@@ -26,7 +26,7 @@
 - [Python](https://newzone.top/code/Python.html) - Python3实用学习备忘录。涵盖基础语法、常用模块、数据结构、字符串操作，及Lambda函数等进阶用法。无论初学入门还是快速查阅，助你高效掌握核心知识。
 - [正则表达式](https://newzone.top/code/Regex.html) - 正则表达式快速入门指南。汇总字符匹配、前后查找等核心语法与高频替换技巧。附带元字符速查表与分组说明，通过实战案例助你轻松掌握正则。
 - [Vue](https://newzone.top/code/Vue.html) - mounted 是生命周期函数，自动执行。
-- [网站部署](https://newzone.top/deploy/) - 如果想形成专题文章，并想使用独立侧边栏，则参考本目录使用专题文章。
+- [部署](https://newzone.top/deploy/) - 如果想形成专题文章，并想使用独立侧边栏，则参考本目录使用专题文章。
 - [Cloudflare](https://newzone.top/deploy/Cloudflare.html) - 释放Cloudflare的强大功能！本指南教你加速网站访问，并提供页面优化的实用技巧，如设置缓存和使用Zaraz。更有进阶的Workers反向代理教程，助你全面掌控网站部署与性能。
 - [云计算服务](https://newzone.top/deploy/CloudServices.html) - 如何优化网站性能与部署？本篇云计算服务指南，探讨CDN在静态文件托管、图床和全站加速中的应用。同时分享Vercel、Cloudflare Tunnel等第三方服务的部署经验与避坑技巧。
 - [域名 DNS 托管](https://newzone.top/deploy/DNS.html) - 如何优化域名DNS解析？分享阿里云与Cloudflare托管实践，对比国内访问速度与备案流程。探讨NS记录设置与DNS迁移技巧，助你为网站选择稳定高效的解析方案。
@@ -37,10 +37,10 @@
 - [加密](https://newzone.top/encrypt/) - 加密内容，支持 Markdown 和 HTML 语言。
 - [加密 1](https://newzone.top/encrypt/encrypt01.html) - 加密内容，支持 Markdown 和 HTML 语言。
 - [加密 2](https://newzone.top/encrypt/encrypt02.html) - 加密内容，支持 Markdown 和 HTML 语言。
-- [The 5 AM Club](https://newzone.top/reading/#/0_效率与习惯/The_5_AM_Club) - 早上 5 点 - 8 点，专注做 Personal Project，比如读书、考证、写作和你特别想做的事情。
-- [吃掉那只青蛙](https://newzone.top/reading/#/0_效率与习惯/吃掉那只青蛙) - 《吃掉那只青蛙》的核心是每天先完成重要的工作、吃掉丑陋的青蛙。
-- [福格行为模型](https://newzone.top/reading/#/0_效率与习惯/福格行为模型) - 《福格行为模型》是习惯养成的行为设计学。明确你的愿望或成果，然后尽可能多的罗列行为，最后找到适合你的黄金行为。习惯从微小的行动开始，比如：开煤气灶 - 烧开水 - 煮粥 - 早餐。
-- [这就是 OKR](https://newzone.top/reading/#/0_效率与习惯/这就是_OKR) - 《这就是 OKR》介绍了硅谷创业团队在使用 OKR 时遇到的问题、阻碍以及取得的成果，让人更容易理解 OKR 的作用。个人觉得，OKR 的优点在于聚焦优先事务，提高团队透明度，让整个团队朝着一个方向努力。
+- [The 5 AM Club](https://newzone.top/reading/#/🧳效率与习惯/The_5_AM_Club) - 早上 5 点 - 8 点，专注做 Personal Project，比如读书、考证、写作和你特别想做的事情。
+- [吃掉那只青蛙](https://newzone.top/reading/#/🧳效率与习惯/吃掉那只青蛙) - 《吃掉那只青蛙》的核心是每天先完成重要的工作、吃掉丑陋的青蛙。
+- [福格行为模型](https://newzone.top/reading/#/🧳效率与习惯/福格行为模型) - 《福格行为模型》是习惯养成的行为设计学。明确你的愿望或成果，然后尽可能多的罗列行为，最后找到适合你的黄金行为。习惯从微小的行动开始，比如：开煤气灶 - 烧开水 - 煮粥 - 早餐。
+- [这就是 OKR](https://newzone.top/reading/#/🧳效率与习惯/这就是_OKR) - 《这就是 OKR》介绍了硅谷创业团队在使用 OKR 时遇到的问题、阻碍以及取得的成果，让人更容易理解 OKR 的作用。个人觉得，OKR 的优点在于聚焦优先事务，提高团队透明度，让整个团队朝着一个方向努力。
 - [了不起的我](https://newzone.top/reading/#/1_思维与成长/了不起的我) - 《了不起的我》罗列了我们生活中常见的心理学案例，你可以逐个地去寻找符合自己的案例，去比对，去思索是不是自己有哪些需要改善的。
 - [人，做得到任何事](https://newzone.top/reading/#/1_思维与成长/人_做得到任何事) - 《人，做得到任何事：阿德勒心理学讲义》探讨了人生的各个方面，特别是从心理学角度深入分析了童年经历对认知发展的影响。全书晦涩难懂，适合作为专业工具书使用。书中包含了许多引人深思的观点。
 - [原则](https://newzone.top/reading/#/1_思维与成长/原则) - 《原则》对我的影响最大，结合批评与自我批评，找到了提升的方向。但一定要制订计划，并严格按照计划来走，否则只会是一本无聊的理论书。总结内容查看 普通人的生活原则－批评与自我批评。
@@ -68,3 +68,6 @@
 - [置身事内](https://newzone.top/reading/#/5_商业与社会/置身事内) - 《置身事内》基本是概念介绍，对于问题浅尝辄止，想通盘理解政府的税制变革和运作模式可以略读。不能明白评分为什么那么高。
 - [苏世民：我的经验与教训](https://newzone.top/reading/#/5_商业与社会/苏世民_我的经验与教训) - 《苏世民：我的经验与教训》阅读体验不错，其中故事化的情节让本书更有趣，比如：「第一份工作是为了获取比同班同学更高的工资 (一万)，强行跟对方招聘人员，说我要 10500 美元」，「工作初期的工作是审核对方公...
 - [读书笔记](https://newzone.top/reading/#/README) - 曾经我尝试使用 Notion 来管理书单，用 Calibre、Logseq 来对电子书做读书笔记。我渐渐发现自己几乎从不回头再看这些电子书的笔记。因此，我决定放弃电子书这种方式，而将我的注意力更多地集中在实体书籍上的摘要...
+- [评论插件](https://newzone.top/web/Comments.html) - 网站评论插件深度指南：对比Waline、Giscus与Gitalk。详解Waline从Vercel部署到Linux配置及数据库迁移全流程，搭建安全高效评论系统。
+- [docsify](https://newzone.top/web/docsify.html) - docsify建站避坑指南：汇总插件配置、本地Serve命令及GitHub Pages部署等常见问题解决方案。助你轻松驾驭这款神奇的静态网站生成器。
+- [VuePress](https://newzone.top/web/VuePress.html) - VuePress v2建站攻略：从基础环境搭建到theme-hope主题深度定制。涵盖搜索插件、Webpack打包优化及性能调优技巧，助你构建专业静态文档网站。
