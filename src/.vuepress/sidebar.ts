@@ -6,14 +6,17 @@ export default sidebar({
   "/": [
     "DailyRoutine",
     "Fitness",
-   
+    // 读书笔记架构更换到 docsify，不能使用相对链接
+    // { text: "读书笔记", icon: "fa6-brands:readme", link: "https://newzone.top/reading/" },
     // 指定显示页面
-    { text: "读书笔记", icon: "fa6-brands:readme", link: "reading/" },
-    { text: "应用手册", icon: "", link: "apps/" },
-    { text: "网站部署", icon: "", link: "deploy/" },
-    { text: "代码编程", icon: "", link: "code/" },
-    { text: "加密目录", icon: "material-symbols:encrypted", link: "encrypt/" },
-    { text: "博客文章", icon: "fa6-solid:feather-pointed", link: "blog" },
+    { text: "读书笔记", icon: "fa6-brands:readme", link: "/reading/" },
+    { text: "应用手册", icon: "", link: "/apps/" },
+    // { text: "页面开发", icon: "", link: "/web/" },
+    { text: "网站部署", icon: "", link: "/deploy/" },
+    { text: "代码编程", icon: "", link: "/code/" },
+    // { text: "生活记录", icon: "", link: "/family/" },
+    { text: "加密目录", icon: "material-symbols:encrypted", link: "/encrypt/" },
+    { text: "博客文章", icon: "fa6-solid:feather-pointed", link: "/blog" },
   ],
 
   "/reading/": [
@@ -90,6 +93,16 @@ export default sidebar({
     },
   ],
 
+  // "/web/": [
+  //   {
+  //     text: "🌐 页面开发",
+  //     icon: "",
+  //     prefix: "",
+  //     collapsible: true,
+  //     children: "structure",
+  //   },
+  // ],
+
   "/deploy/": [
     {
       text: "🏗️ 网站部署",
@@ -134,6 +147,15 @@ export default sidebar({
     },
   ],
 
+  // "/family/": [
+  //   {
+  //     text: "🛖 生活记录",
+  //     icon: "",
+  //     prefix: "",
+  //     collapsible: true,
+  //     children: "structure",
+  //   },
+  // ],
 
   "/encrypt/": [
     {
