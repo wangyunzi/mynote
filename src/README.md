@@ -1,6 +1,6 @@
 ---
 article: false
-title: LearnData 开源笔记
+title: 
 description: 演示站：你正在浏览 LearnData 模板的默认样态。Use this template 创建仓库后部署得到的就是这套站点框架，按需替换内容即可上线属于自己的知识库。
 icon: fa6-solid:book-open-reader
 ---
