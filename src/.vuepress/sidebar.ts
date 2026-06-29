@@ -35,14 +35,14 @@ export default sidebar({
       children: "structure",
     },
     {
-      text: "加密目录",
+      text: "🔑 加密目录",
       icon: "",
       prefix: "encrypt/",
       collapsible: true,
       children: "structure",
     },
     {
-      text: "博客文章",
+      text: "🐣 日常生活",
       icon: "",
       prefix: "_posts/",
       collapsible: true,
