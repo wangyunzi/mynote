@@ -2,7 +2,6 @@
 article: false
 title: 代码地带
 description: 想入门编程或提升技能？这份指南为你规划全栈学习路径：从Vue/React前端到Node.js后端，再到AutoHotkey自动化脚本。精选实用IDE与在线编辑器推荐，助你构建完整技术栈。
-icon: fa6-solid:code
 ---
 
 ## 编程学习路径
