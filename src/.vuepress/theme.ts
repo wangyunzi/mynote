@@ -203,7 +203,7 @@ export default hopeTheme(
     encrypt: {
       config: {
         // 这会加密整个 encrypt 目录，并且两个密码都是可用的
-        "/🔑encrypt/": {
+        "/encrypt/": {
           password: ["1113", "2000"],
           hint: "从 博主 获取密码",
         },
