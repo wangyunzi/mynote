@@ -2,6 +2,7 @@
 article: false
 title: 读书笔记
 description: 
+icon: fa6-brands:readme
 ---
 
 # 读书笔记
