@@ -9,4 +9,5 @@
 - [🔑保密文档](https://newzone.top/encrypt/) - 需要密码哦～
 - [文章标题](https://newzone.top/encrypt/1.html) - （非必须）文章简要描述，用于SEO优化和摘要显示
 - [👩🏼‍💼律学日志](https://newzone.top/lawnotes/) - 记录关于法律知识的学习！
+- [文章标题](https://newzone.top/reading/#/🍭沟通与影响/dushu) - （非必须）文章简要描述，用于SEO优化和摘要显示
 - [📚读书笔记](https://newzone.top/reading/#/README) - 曾经我尝试使用 Notion 来管理书单，用 Calibre、Logseq 来对电子书做读书笔记。我渐渐发现自己几乎从不回头再看这些电子书的笔记。因此，我决定放弃电子书这种方式，而将我的注意力更多地集中在实体书籍上的摘要...
