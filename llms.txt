@@ -7,9 +7,6 @@
 - [技术博客](https://newzone.top/) - 记录软件工具、网站部署、代码学习与读书笔记的个人知识博客，持续整理可复用的方法、经验和资料。
 - [律学日志](https://newzone.top/👩🏼‍💼lawnotes/) - 记录关于法律知识的学习！
 - [读书笔记](https://newzone.top/📚reading/) - 曾经我尝试使用 Notion 来管理书单，用 Calibre、Logseq 来对电子书做读书笔记。我渐渐发现自己几乎从不回头再看这些电子书的笔记。因此，我决定放弃电子书这种方式，而将我的注意力更多地集中在实体书籍上的摘要...
-- [The 5 AM Club](https://newzone.top/📚reading/🧳效率与习惯/The_5_AM_Club.html) - 早上 5 点 - 8 点，专注做 Personal Project，比如读书、考证、写作和你特别想做的事情。
-- [吃掉那只青蛙](https://newzone.top/📚reading/🧳效率与习惯/吃掉那只青蛙.html) - 《吃掉那只青蛙》的核心是每天先完成重要的工作、吃掉丑陋的青蛙。
-- [福格行为模型](https://newzone.top/📚reading/🧳效率与习惯/福格行为模型.html) - 《福格行为模型》是习惯养成的行为设计学。明确你的愿望或成果，然后尽可能多的罗列行为，最后找到适合你的黄金行为。习惯从微小的行动开始，比如：开煤气灶 - 烧开水 - 煮粥 - 早餐。
-- [这就是 OKR](https://newzone.top/📚reading/🧳效率与习惯/这就是_OKR.html) - 《这就是 OKR》介绍了硅谷创业团队在使用 OKR 时遇到的问题、阻碍以及取得的成果，让人更容易理解 OKR 的作用。个人觉得，OKR 的优点在于聚焦优先事务，提高团队透明度，让整个团队朝着一个方向努力。
 - [保密文档](https://newzone.top/🔑encrypt/) - 需要密码哦～
+- [文章标题](https://newzone.top/🔑encrypt/1.html) - （非必须）文章简要描述，用于SEO优化和摘要显示
 - [代码地带](https://newzone.top/🦭coding/) - 想入门编程或提升技能？这份指南为你规划全栈学习路径：从Vue/React前端到Node.js后端，再到AutoHotkey自动化脚本。精选实用IDE与在线编辑器推荐，助你构建完整技术栈。
