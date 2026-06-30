@@ -29,12 +29,12 @@ function sortEntries(a: Dirent, b: Dirent): number {
 }
 
 function toRoute(fullPath: string): string {
-  const relativePath = relative(docsRoot, fullPath).replace(/\/g, "/");
+  const relativePath = relative(docsRoot, fullPath).replace(/\\/g, "/");
 
   if (relativePath === "README.md") return "/";
   if (relativePath.endsWith("/README.md")) return "/" + relativePath.slice(0, -"README.md".length);
 
-  return "/" + relativePath.replace(/.md$/, ".html");
+  return "/" + relativePath.replace(/\.md$/, ".html");
 }
 
 function readFrontmatter(mdFile: string): FrontmatterData {
