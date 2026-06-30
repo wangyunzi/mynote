@@ -20,6 +20,13 @@ type FrontmatterData = {
   icon?: string;
 };
 
+type DirMeta = {
+  title: string;
+  icon?: string;
+  link?: string;
+  children: SidebarNode[];
+};
+
 const docsRoot = fileURLToPath(new URL("../", import.meta.url));
 const ignoredDirNames = new Set([".vuepress", "node_modules", "_temp"]);
 
@@ -43,7 +50,7 @@ function readFrontmatter(mdFile: string): FrontmatterData {
   return parsed ?? {};
 }
 
-function buildDirectoryItems(dirPath: string): SidebarNode[] {
+function buildDirectoryMeta(dirPath: string): DirMeta {
   const entries = readdirSync(dirPath, { withFileTypes: true })
     .filter((entry) => !entry.name.startsWith("."))
     .filter((entry) => !(entry.isDirectory() && ignoredDirNames.has(entry.name)))
@@ -57,23 +64,17 @@ function buildDirectoryItems(dirPath: string): SidebarNode[] {
 
   const children: SidebarNode[] = [];
 
-  if (readmePath) {
-    children.push({
-      text: readmeFrontmatter?.title ?? basename(dirPath),
-      link: readmeLink,
-    });
-  }
-
   for (const entry of entries) {
     const fullPath = join(dirPath, entry.name);
 
     if (entry.isDirectory()) {
+      const child = buildDirectoryMeta(fullPath);
       children.push({
-        text: entry.name,
-        icon: undefined,
-        link: readmeLink,
+        text: child.title,
+        icon: child.icon,
+        link: child.link,
         collapsible: true,
-        children: buildDirectoryItems(fullPath),
+        children: child.children,
       });
       continue;
     }
@@ -87,9 +88,14 @@ function buildDirectoryItems(dirPath: string): SidebarNode[] {
     });
   }
 
-  return children;
+  return {
+    title: readmeFrontmatter?.title ?? basename(dirPath),
+    icon: readmeFrontmatter?.icon,
+    link: readmeLink,
+    children,
+  };
 }
 
 export default sidebar({
-  "/": buildDirectoryItems(docsRoot),
+  "/": buildDirectoryMeta(docsRoot).children,
 });
