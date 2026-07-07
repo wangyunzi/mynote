@@ -9,5 +9,6 @@
 - [我的 VuePress 博客改造记录](https://newzone.top/coding/我的 VuePress 博客改造记录.html) - 这篇文章记录我对 `mynote` 博客的一次完整调整，从笔记同步、侧边栏重构到 Cloudflare 部署。
 - [🔑保密文档](https://newzone.top/encrypt/) - 需要密码哦～
 - [👩🏼‍💼律学日志](https://newzone.top/lawnotes/) - 记录关于法律知识的学习！
-- [文章标题](https://newzone.top/reading/#/🍭沟通与影响/dushu) - （非必须）文章简要描述，用于SEO优化和摘要显示
+- [商标侵权混淆可能性判断](https://newzone.top/lawnotes/Trademark/商标侵权混淆可能性判断.html) - 商标侵权认定中混淆可能性的判断因素、常见误区与案例分析检查清单
+- [门口效应与工作记忆](https://newzone.top/reading/#/Psychology/2026-07-07-门口效应与工作记忆) - 门口效应提醒我们：意识里正在处理的信息，很可能只是工作记忆临时托举起来的一小块内容；环境一切换，它就可能被新的任务和线索挤出去。
 - [📚读书笔记](https://newzone.top/reading/#/README) - 曾经我尝试使用 Notion 来管理书单，用 Calibre、Logseq 来对电子书做读书笔记。我渐渐发现自己几乎从不回头再看这些电子书的笔记。因此，我决定放弃电子书这种方式，而将我的注意力更多地集中在实体书籍上的摘要...
