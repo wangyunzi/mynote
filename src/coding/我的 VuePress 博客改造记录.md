@@ -535,7 +535,65 @@ src/.vuepress/dist
 
 因为这个目录是构建之后才生成的。
 
-## 十六、GitHub Actions 自动审批 PR 的坑
+## 十六、取消旧的 GitHub Pages 部署
+
+迁移到 Cloudflare 之后，`mynote` 已经不需要再通过 GitHub Pages 发布页面。
+
+后来在 GitHub 上看到很多类似这样的提交和报错：
+
+```
+Deploying to gh-pages from @ ...
+```
+
+这不是 Cloudflare 的问题，而是 `mynote` 仓库里还保留着旧的 GitHub Actions workflow：
+
+```
+.github/workflows/main.yml
+```
+
+这个 workflow 原来的逻辑是：
+
+1. 监听 `main` 分支 push。
+2. 安装依赖并执行 VuePress 构建。
+3. 使用 `JamesIves/github-pages-deploy-action` 把 `src/.vuepress/dist` 推送到 `gh-pages` 分支。
+4. 如果配置了 FTP secret，再额外同步到 FTP 服务器。
+
+其中真正导致 GitHub Pages 反复部署的是这一段：
+
+```
+- name: Deploy GitHub Pages
+  uses: JamesIves/github-pages-deploy-action@v4
+  with:
+    branch: gh-pages
+    folder: src/.vuepress/dist
+```
+
+既然现在页面已经由 Cloudflare 部署，就应该删除这个旧 workflow，避免以后每次推送 `mynote/main` 都再去更新 `gh-pages`。
+
+代码层面的处理：
+
+```
+删除 mynote/.github/workflows/main.yml
+```
+
+GitHub 网页上还要再检查一次 Pages 设置：
+
+```
+wangyunzi/mynote
+Settings
+Pages
+```
+
+如果页面还显示正在通过 `gh-pages` 发布，就把 GitHub Pages 取消发布，或者把 Build and deployment 的 Source 改为 `None`。
+
+这个调整之后，部署职责就更清楚了：
+
+- `myob` 负责写作和同步 Markdown。
+- `mynote` 负责保存 VuePress 源码。
+- Cloudflare 负责构建和发布页面。
+- `gh-pages` 分支不再作为正式部署入口。
+
+## 十七、GitHub Actions 自动审批 PR 的坑
 
 还遇到过一个 GitHub Actions 报错：
 
@@ -561,7 +619,7 @@ permissions:
 
 否则 `GITHUB_TOKEN` 不能自动 approve PR。
 
-## 十七、这次改造后的维护方式
+## 十八、这次改造后的维护方式
 
 以后我的维护流程变成：
 
