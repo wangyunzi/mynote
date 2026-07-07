@@ -1,6 +1,6 @@
 ---
 article: false
-title: 看剧学英语
+title: 🧾看剧学英语
 description: 以英剧、美剧和影视对白为材料，按剧集整理词汇、句式、听力笔记和口语表达。
 ---
 
