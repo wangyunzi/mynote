@@ -12,6 +12,7 @@ type SidebarNode =
       icon?: string;
       link?: string;
       collapsible?: boolean;
+      expanded?: boolean;
       children?: SidebarNode[];
     };
 
@@ -72,9 +73,9 @@ function buildDirectoryMeta(dirPath: string): DirMeta {
       children.push({
         text: child.title,
         icon: child.icon,
-        link: child.link,
         collapsible: true,
-        children: child.children,
+        expanded: false,
+        children: child.link ? [{ text: "首页", link: child.link }, ...child.children] : child.children,
       });
       continue;
     }
