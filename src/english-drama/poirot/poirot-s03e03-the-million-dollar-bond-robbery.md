@@ -4,7 +4,7 @@ date: 2026-07-08
 series: Agatha Christie's Poirot
 episode: S03E03
 type: 看剧学英语
-exam_focus: speaking_logic
+exam_focus: IELTS speaking, reading, writing
 category:
   - 英语学习
   - 看剧学英语
@@ -216,6 +216,8 @@ The explanation does not fit the evidence.
 
 ## 本集高频表达
 
+这一节的词汇不只为“看懂剧情”，而是要能迁移到雅思口语和写作里。尤其是本集涉及 money, trust, evidence, responsibility, false accusation，这些都可以变成雅思话题。
+
 ### bond
 
 含义：债券。
@@ -228,6 +230,12 @@ The explanation does not fit the evidence.
 Bonds are financial documents that represent money or debt.
 ```
 
+雅思迁移：
+
+```text
+Financial documents should be handled with strict security because they represent real economic value.
+```
+
 ### shipment
 
 含义：一批运输中的货物。
@@ -238,6 +246,12 @@ Bonds are financial documents that represent money or debt.
 a shipment of bonds
 a shipment of jewellery
 a valuable shipment
+```
+
+雅思迁移：
+
+```text
+International shipments require reliable systems of inspection and accountability.
 ```
 
 ### suspect
@@ -254,6 +268,12 @@ He is the main suspect.
 ```text
 suspect 作动词：我怀疑
 suspect 作名词：嫌疑人
+```
+
+雅思迁移：
+
+```text
+A person should not be treated as guilty simply because they are a suspect.
 ```
 
 ### keep an eye on
@@ -295,6 +315,232 @@ Maybe he was framed.
 ```
 
 这就是能开口的句子。
+
+雅思迁移：
+
+```text
+False accusations can damage a person's reputation even if they are later proved innocent.
+```
+
+## 本集雅思学习重点
+
+这一集最适合练三个能力：
+
+1. 阅读：识别“表面信息”和“真实逻辑”的差别。
+2. 口语：练习描述案件、解释怀疑、表达个人判断。
+3. 写作：迁移到 trust, evidence, financial crime, responsibility, reputation 等话题。
+
+从英语逻辑看，本集可以压缩成一个雅思高频论证：
+
+```text
+When evidence appears obvious, people may form judgements too quickly.
+However, serious decisions should be based on careful investigation rather than first impressions.
+```
+
+中文思路：
+
+当证据看上去很明显时，人们容易迅速下判断。但严肃决定不能只靠第一印象，而应该建立在细致调查之上。
+
+## 雅思阅读训练
+
+### 1. 信息分类
+
+看这一集时，可以按雅思阅读的方式记录信息：
+
+```text
+People: Philip Ridgeway, Poirot, Hastings, Miss Lemon
+Object: a shipment of valuable bonds
+Problem: the bonds disappear during transportation
+Suspicion: Philip becomes the main suspect
+Question: whether the evidence is genuine or deliberately misleading
+Theme: financial security, trust, false accusation
+```
+
+这对应雅思阅读里的定位逻辑：先找名词，再找动作，再判断关系。
+
+### 2. 同义替换
+
+| 剧情表达 | 雅思阅读替换 |
+| --- | --- |
+| the bonds are stolen | the financial documents are missing |
+| Philip is suspected | Philip becomes the main suspect |
+| Poirot checks the case | Poirot investigates the incident |
+| the explanation is too obvious | the account appears suspiciously convenient |
+| someone may have framed him | he may have been falsely accused |
+| the evidence points to him | the available evidence seems to implicate him |
+
+注意 `implicate` 这个词，意思是“显示某人牵涉其中”。它比 `show he did it` 更适合雅思写作和法律话题。
+
+### 3. 判断题练习
+
+用 True / False / Not Given 训练：
+
+1. Philip Ridgeway is connected to the missing bonds because he is responsible for the shipment.
+2. Poirot immediately accepts the most obvious explanation.
+3. The episode suggests that financial crimes can involve planning and deception.
+
+参考思路：
+
+- 第 1 题：True。Philip 之所以被怀疑，正是因为他和押运责任有关。
+- 第 2 题：False。Poirot 的特点就是不急着接受表面解释。
+- 第 3 题：True。债券失窃案背后涉及设计、误导和责任转移。
+
+## 雅思口语训练
+
+### Part 2 话题：Describe a story about a crime or a mystery
+
+可以用这一集回答：
+
+```text
+I would like to describe an episode of Agatha Christie's Poirot called The Million Dollar Bond Robbery.
+The story is about a valuable shipment of bonds that disappears on its way to America.
+At first, a young banker becomes the main suspect because he was responsible for the shipment.
+However, Poirot does not simply accept the obvious explanation.
+He investigates the case carefully and considers whether the evidence may have been deliberately arranged to mislead people.
+What I found interesting was the contrast between appearance and truth.
+The episode reminds me that people should not jump to conclusions, especially when someone's reputation is at stake.
+```
+
+这段的底层结构：
+
+```text
+我要讲什么 -> 案件是什么 -> 谁被怀疑 -> 波洛怎么做 -> 我为什么觉得有意思 -> 抽象启发
+```
+
+哑巴英语开口时，不要先想“高级”。先把这六步说顺。
+
+### Part 3 问题 1：Why do people sometimes judge others too quickly?
+
+参考回答：
+
+```text
+People often judge others too quickly because first impressions are simple and emotionally powerful.
+If a piece of evidence seems obvious, many people feel that they already understand the situation.
+However, the first explanation is not always the correct one.
+In serious situations, such as legal cases or workplace conflicts, it is better to examine the context and compare different accounts before reaching a conclusion.
+```
+
+句子逻辑：
+
+```text
+原因 -> 例子/解释 -> 转折 -> 更合理做法
+```
+
+### Part 3 问题 2：Is trust important in financial work?
+
+参考回答：
+
+```text
+Yes, trust is extremely important in financial work because people are dealing with money, documents and sensitive information.
+If employees are not trustworthy, even a small mistake or dishonest action can cause serious financial loss.
+At the same time, trust should not mean a lack of supervision.
+Financial institutions need clear procedures, proper records and independent checks to prevent fraud.
+```
+
+这里有一个很适合雅思的平衡句：
+
+```text
+Trust should not mean a lack of supervision.
+```
+
+中文意思：信任不等于没有监督。
+
+### Part 3 问题 3：How can someone protect their reputation after being falsely accused?
+
+参考回答：
+
+```text
+If someone is falsely accused, the most important thing is to provide clear evidence and remain calm.
+Emotional reactions may be understandable, but they do not always help to solve the problem.
+It is also important to ask for an independent investigation, because a neutral third party can make the result more credible.
+In the long term, transparency is often the best way to rebuild trust.
+```
+
+可迁移词组：
+
+```text
+provide clear evidence
+remain calm
+ask for an independent investigation
+rebuild trust
+```
+
+## 雅思写作训练
+
+### 可迁移话题
+
+这一集可以迁移到以下 Task 2 话题：
+
+- 司法判断：Should people be punished based on circumstantial evidence?
+- 金融监管：How can financial institutions prevent fraud?
+- 职场信任：Should companies trust employees or supervise them closely?
+- 名誉保护：Do false accusations cause long-term harm?
+- 决策方式：Should people rely on first impressions?
+
+### 写作观点库
+
+#### 观点 1：明显证据不一定等于真实结论
+
+```text
+Obvious evidence should be treated with caution because it may only show part of the truth.
+In some cases, evidence can be deliberately arranged to create a misleading impression.
+Therefore, serious decisions should be based on multiple sources of information, including physical evidence, timelines and independent testimony.
+```
+
+中文思路：
+
+明显证据要谨慎对待，因为它可能只展示了一部分事实。有时证据甚至可能被故意安排，用来制造误导性印象。因此，严肃决定需要多种信息相互印证。
+
+#### 观点 2：金融行业既需要信任，也需要制度监督
+
+```text
+Trust is necessary in financial institutions, but it should be supported by strict procedures.
+Employees may handle valuable documents or sensitive information, so a purely trust-based system is risky.
+Clear records, independent checks and transparent responsibilities can reduce the possibility of fraud and false accusations.
+```
+
+中文思路：
+
+金融机构当然需要信任，但信任必须有制度支撑。员工可能接触高价值文件和敏感信息，如果只靠个人品德，就很危险。清晰记录、独立核查和责任透明能同时减少欺诈和冤枉。
+
+#### 观点 3：错误指控会造成长期伤害
+
+```text
+False accusations can have long-lasting consequences because reputation is difficult to restore once it has been damaged.
+Even if a person is later proved innocent, others may continue to associate them with suspicion.
+For this reason, institutions should avoid public blame before a fair investigation has been completed.
+```
+
+中文思路：
+
+错误指控的伤害可能长期存在，因为名誉一旦受损，很难完全恢复。即使后来证明清白，别人也可能继续把他和嫌疑联系在一起。所以机构在公平调查完成前，不应轻易公开归责。
+
+### Task 2 练习题
+
+```text
+Some people believe that employees in financial institutions should be trusted completely.
+Others think that strict supervision is necessary to prevent fraud.
+Discuss both views and give your own opinion.
+```
+
+建议立场：
+
+信任是基础，但不能替代监督。金融工作涉及金钱、文件和敏感信息，合理监督既保护机构，也保护员工免受错误指控。
+
+### 可直接背的写作段落
+
+```text
+In my view, trust and supervision should not be seen as opposites.
+Trust helps employees feel respected, but financial work also requires clear rules because mistakes or dishonest behaviour can cause serious losses.
+Moreover, supervision can protect innocent employees by creating records that show who was responsible for each decision.
+Therefore, a well-designed system should combine personal trust with transparent procedures and independent checks.
+```
+
+这一段的英语逻辑：
+
+```text
+立场 -> 承认信任价值 -> 提出监督必要性 -> 补充监督还能保护员工 -> 总结
+```
 
 ## 哑巴英语开口训练
 
@@ -525,9 +771,26 @@ What I found interesting was the way Poirot questioned the obvious answer.
 What I found interesting was the contrast between appearance and truth.
 ```
 
-## 练习任务
+## 今日复习任务
 
-### 开口 1 分钟
+### 雅思阅读
+
+1. 重看本集前 20 分钟，记录 people / object / problem / suspicion / evidence 五类信息。
+2. 把下面 5 个表达改写成雅思同义替换：
+
+```text
+the bonds are missing
+Philip is suspected
+Poirot checks the case
+the explanation is too obvious
+he may have been framed
+```
+
+3. 自己编 3 道 True / False / Not Given 判断题。
+
+### 雅思口语
+
+#### 开口 1 分钟
 
 不要看中文，按下面提示说：
 
@@ -537,6 +800,51 @@ The episode is about...
 At first...
 However...
 What I found interesting was...
+```
+
+#### Part 3 追问
+
+回答下面两个问题，每个问题说 30 秒：
+
+```text
+Why do people sometimes judge others too quickly?
+Is trust important in financial work?
+```
+
+要求至少用到 4 个词：
+
+```text
+evidence
+suspect
+misleading
+reputation
+supervision
+```
+
+### 雅思写作
+
+写一段 120 词左右的短文，题目：
+
+```text
+Why should obvious evidence be checked carefully?
+```
+
+建议结构：
+
+```text
+Obvious evidence may be useful, but...
+For example, ...
+Therefore, ...
+```
+
+至少使用 4 个表达：
+
+```text
+jump to conclusions
+misleading evidence
+false accusation
+independent investigation
+protect someone's reputation
 ```
 
 ### 句子替换
